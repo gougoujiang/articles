@@ -1,6 +1,2 @@
 # articles
-My articles
-
-Test commit
-
-Test commit by ssh
+每个子目录为一个独自成篇的文章或者系列。
