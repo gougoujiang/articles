@@ -1,0 +1,3 @@
+## How to calculate cost to migrate to cloud
+
+https://blog.newrelic.com/2018/04/23/calculate-cloud-migration-costs/?utm_campaign=MKTG+GTM+cld-adption+FY19Q1&utm_medium=EM&utm_source=MKTO&utm_content=blog&mkt_tok=eyJpIjoiWWpWaFpEVmpPV1psT0RFeiIsInQiOiJ1XC9KZUFyNytqWkhiQTM5WVFNODljdU5xZEUxdVBCcFpFbFhTblFtdnBuT0xlUVBTRUJraWFpcmI5ZjJ5cjRxaW1tcDRpakFoNnR4eTdwUjA5REplcFZ6d1ZLdnVVRkt4NksyMmJzeFYzc0dIMnNCV0l4R2dEOVBFcEZ0cXZaNXkifQ%3D%3D
