@@ -1,0 +1,1 @@
+translate: https://medium.com/kokster/scheduling-in-kubernetes-part-2-pod-affinity-c2b217312ae1

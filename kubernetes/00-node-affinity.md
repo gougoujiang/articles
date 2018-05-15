@@ -1,0 +1,1 @@
+translate an article: https://medium.com/kokster/scheduling-in-kubernetes-part-1-node-affinity-b77c97556424
